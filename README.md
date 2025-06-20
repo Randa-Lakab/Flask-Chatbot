@@ -8,7 +8,7 @@ This is a simple AI-powered chatbot built with Python, Flask, and Hugging Face's
 
 Follow these steps to run the chatbot on your computer:
 
-1. Make sure Python is installed
+## 1. Make sure Python is installed
 
 Check if Python is installed by running:
 
