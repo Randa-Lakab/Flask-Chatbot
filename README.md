@@ -16,7 +16,7 @@ Check if Python is installed by running:
 python --version
 If not, download and install it from: https://www.python.org
 
-2. Install required libraries
+## 2. Install required libraries
 Open a terminal or command prompt and run:
 
 bash
@@ -24,7 +24,7 @@ Copier
 Modifier
 pip install flask torch transformers
 
-3. Start the chatbot server
+## 3. Start the chatbot server
 In the same terminal, run the following command from the folder where app.py is located:
 
 bash
@@ -38,7 +38,7 @@ Copier
 Modifier
  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 
-4. Open the chatbot in your browser
+## 4. Open the chatbot in your browser
 Open your web browser and go to:
 
 cpp
@@ -47,21 +47,21 @@ Modifier
 http://127.0.0.1:5000/
 You’ll see a simple chat interface where you can start talking to the AI.
 
-5. Chat with the AI
+## 5. Chat with the AI
 Type a message in the text box.
 
 Click the "Send" button.
 
 The chatbot will respond instantly on the same page.
 
-🧠 Notes
+## 🧠 Notes
 The first time you run the app, it may take a little longer because the model is being downloaded.
 
 You must stay connected to the internet during the first launch.
 
 The app runs locally — no data is sent to any server.
 
-❓ Need Help?
+##❓ Need Help?
 If you face any issues running the chatbot:
 
 Make sure you're using the latest version of Python.
