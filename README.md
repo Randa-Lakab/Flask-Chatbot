@@ -66,8 +66,8 @@ The chatbot will respond instantly on the same page.
 
 If you face any issues running the chatbot:
 
-Make sure you're using the latest version of Python.
+• Make sure you're using the latest version of Python.
 
-Check that all libraries are installed correctly.
+• Check that all libraries are installed correctly.
 
-Ensure the browser is pointing to http://127.0.0.1:5000/.
+• Ensure the browser is pointing to http://127.0.0.1:5000/.
