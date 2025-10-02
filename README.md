@@ -56,7 +56,7 @@ The chatbot will respond instantly on the same page.
 
 ###  Notes
 
-The first time you run the app, it may take a little longer because the model is being downloaded.
+✓ The first time you run the app, it may take a little longer because the model is being downloaded.
 
 You must stay connected to the internet during the first launch.
 
