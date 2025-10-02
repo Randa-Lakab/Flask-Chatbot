@@ -58,9 +58,9 @@ The chatbot will respond instantly on the same page.
 
 ✓ The first time you run the app, it may take a little longer because the model is being downloaded.
 
-You must stay connected to the internet during the first launch.
+✓ You must stay connected to the internet during the first launch.
 
-The app runs locally — no data is sent to any server.
+✓ The app runs locally — no data is sent to any server.
 
 ### Need Help?
 
